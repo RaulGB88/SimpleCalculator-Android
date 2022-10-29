@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">pmdm-t4a8-Granel-Raul</string>
+    <string name="hint.number.one">Introduce un primer número</string>
+    <string name="hint.number.two">Introduce un segundo número</string>
+    <string name="hint.number.result">Resultado</string>
+</resources>
